@@ -1,4 +1,4 @@
-# Portfolio of Mahendra Pratap Das
+# Portfolio of Sonali Parida
 
  
 This project was created with CRA (Create React App)
